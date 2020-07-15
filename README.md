@@ -1,6 +1,6 @@
 ### Hi, I'm Jaime 👋
 
-<img align="right" src="https://avatars2.githubusercontent.com/u/10882086?s=460&u=830dff44bb4983468b79e9847c35f2d0fc3a3e06&v=4" height="250">
+<img align="right" src="https://64.media.tumblr.com/d4b441bb2728a3ba41ed9bde15178ecd/tumblr_pzdqmkDDjD1tm9dvyo1_540.gifv" height="250">
 
 ## I'm a Machine learning engineer at H&M Sweden
 
