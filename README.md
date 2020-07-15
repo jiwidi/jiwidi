@@ -9,7 +9,7 @@
 ## I'm a Machine learning engineer at H&M Sweden
 
 * I'm currently working with recommendation systems and Automatic Speech recognition as a hobby
-* Main programming languages: Python, C++.
+* Main programming languages: Python, C++, Java.
 * Research interests: E2E ASR, Online ASR, Scalable ML.
 * Other skills: Time series forecasting, Scalable cloud services, Linux, Docker, Git, Automating stuff.
 * 🔗 [Website](https://jiwidi.github.io/).
