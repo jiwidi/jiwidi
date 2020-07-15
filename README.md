@@ -11,7 +11,7 @@
 * I'm currently working with recommendation systems and Automatic Speech recognition as a hobby
 * Main programming languages: Python, C++.
 * Research interests: E2E ASR, Online ASR, Scalable ML.
-* Other skills: Open source, Time series, Scalable cloud services, Linux, Docker, Git, Automating stuff.
+* Other skills: Time series forecasting, Scalable cloud services, Linux, Docker, Git, Automating stuff.
 * 🔗 [Website](https://jiwidi.github.io/).
 
 <p align="center">
