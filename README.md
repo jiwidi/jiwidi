@@ -3,7 +3,7 @@
 
 
 
-<img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="250">
+<img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="150">
 
 ## I'm a Machine learning engineer at H&M Sweden
 
@@ -20,12 +20,13 @@
 </p>
 -->
 
+<img align="right" src="http://inews.gtimg.com/newsapp_match/0/10903293331/0" height="250">
+
 * Keep it simple
 * Make it small
 * Make it correct
 * Fight complexity
-<p align="center">
-    <a href="mailto:fhjaime96@gmail.com"><img height="35" src="https://crhenr.xyz/imgs/logos/gmail_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jaime-ferrando-huertas-611ab5130/"><img height="35" src="https://crhenr.xyz/imgs/logos/linkedin_logo.svg"></a>&nbsp;&nbsp;
-    <a href="https://instagram.com/ferrandojaime"><img height="35" src="https://crhenr.xyz/imgs/logos/instagram_logo.svg"></a>&nbsp;&nbsp;
-</p>
+
+
+
+
