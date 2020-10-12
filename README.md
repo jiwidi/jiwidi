@@ -26,7 +26,3 @@
 * Make it small
 * Make it correct
 * Fight complexity
-
-
-
-
