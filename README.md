@@ -26,3 +26,5 @@
 * Make it small
 * Make it correct
 * Fight complexity
+
+![](https://hit.yhype.me/github/profile?user_id=10882086)
